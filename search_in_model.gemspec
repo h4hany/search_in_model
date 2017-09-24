@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "search_in_model"
   spec.version       = SearchInModel::VERSION
   spec.authors       = ["hany"]
-  spec.email         = ["hany.s@nabdacare.com\n"]
+  spec.email         = ["hanysayed.a@gmail.com\n"]
 
   spec.summary       = %q{search in database by user keyword}
   spec.description   = %q{search in database by user keyword}
